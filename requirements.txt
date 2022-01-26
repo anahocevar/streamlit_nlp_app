@@ -1,6 +1,5 @@
 streamlit
 joblib
-pickle
 matplotlib
 wordcloud
 PIL

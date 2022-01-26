@@ -35,7 +35,7 @@ def app():
     - [PRAW](https://praw.readthedocs.io/en/stable/)
     - [scikit-learn](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
     - [Streamlit](https://streamlit.io/)
-    - [GitHub] repo of this project''')
+    - [GitHub repo of this project](https://github.com/anahocevar/streamlit_nlp_app)''')
     image = Image.open('images/pic.png')
     st.image(image)
 

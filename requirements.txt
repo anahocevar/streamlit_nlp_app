@@ -3,3 +3,4 @@ joblib
 matplotlib
 wordcloud
 pillow
+sklearn

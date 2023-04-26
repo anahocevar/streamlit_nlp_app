@@ -1,6 +1,6 @@
-streamlit
-joblib
-matplotlib
-wordcloud
-pillow
-scikit-learn
+streamlit==1.21.0
+joblib==1.2.0
+matplotlib==3.7.1
+wordcloud==1.8.2.2
+pillow==9.5.0
+scikit-learn==1.2.2
